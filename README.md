@@ -1,2 +1,2 @@
-# self-education
-Self education courses solutions (Coursera, Stepik, etc.)
+# Self-education
+The repo for my solutions to various online coureses (i.e. Coursera, Stepik, etc.) I enroll.
