@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ipynb": "python",
+        "numeric": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp"
+    }
+}
